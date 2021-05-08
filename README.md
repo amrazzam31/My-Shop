@@ -1,4 +1,4 @@
-# Breaking News App
+# My Shop App
 
 #### This app is made by using Flutter framework. It's an online shopping marketplace.
 
